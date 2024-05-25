@@ -1,5 +1,5 @@
 ---
-title: "create-remix (CLI)"
+title: "creatu-remix (CLI)"
 ---
 
 # `create-remix`
